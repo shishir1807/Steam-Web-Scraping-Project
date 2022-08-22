@@ -1,1 +1,1 @@
-Automated fetching Top 5 Trending Games from Steam Games.
+Using Python Beautiful Soup Library, retrieve top 5 trending games data.
